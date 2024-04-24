@@ -1,0 +1,5 @@
+Send Request
+GET http://localhost:3000/players/
+
+Send Request
+GET http://localhost:3000/players/1/
